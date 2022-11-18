@@ -33,3 +33,7 @@ The subsequent equipment have been used to finish this certification: <br> <br>
   <img src="https://user-images.githubusercontent.com/84391594/152705298-bb170d32-3dd0-4ad4-8221-8b7b029116b4.png" height="75">
 </p>
 (Python, Jupyter, GitHub, IBM Watson Studio, IBM Cloud Pak)
+
+## 📂 Projects
+
+
