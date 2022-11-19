@@ -1,17 +1,13 @@
 # Python for Data Science, AI & Development
 
 ## 📄 Summary 
-This course teaches Python fundamentals, including data structures and data analysis, and these skills are used throughout the following courses.
+This introduction to Python will jumpstart your learning of Python for data science, as well as programming in general. This beginner's Python course will take you from scratch to programming in Python in just a few hours. This course will teach you the basics of Python, including data structures and data analysis. These skills will be used in subsequent courses.
 
 ## 📑 Main Topics 
 - Python basics
 - Python data structures
 - Programming fundamentals
-- APIs, webscraping and working with files
-
-## 🔑 Key Skills Learned 
-- Core Python programming skills
-- Data Analysis in Python using Pandas and Numpy libraries
+- Working with data in python
 
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
