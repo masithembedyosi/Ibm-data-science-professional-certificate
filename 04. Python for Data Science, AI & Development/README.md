@@ -13,7 +13,7 @@ This introduction to Python will jumpstart your learning of Python for data scie
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/577c9bcf07459df260d54cce8f09469f"><img src="https://user-images.githubusercontent.com/84391594/152701192-698ffb74-fe95-47d1-9d29-782320a13291.png" height="430"></a>
+  <a href="https://coursera.org/share/577c9bcf07459df260d54cce8f09469f"><img src="https://user-images.githubusercontent.com/69879612/202827248-59cca2f4-4c6e-4e92-bb5d-e86b4b563868.png" height="430"></a>
   
 </p>
 
