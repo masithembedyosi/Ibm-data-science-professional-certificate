@@ -19,5 +19,5 @@ This course introduces you to common programming languages ​​used by data sc
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/572ed008fe454f103d992ba4e9a5db56"><img src="https://user-images.githubusercontent.com/84391594/152701005-61dbe199-d6a7-4951-b2e3-ea27baa421ec.png" height="430"></a>
+  <a href="https://coursera.org/share/572ed008fe454f103d992ba4e9a5db56"><img src="https://user-images.githubusercontent.com/69879612/202824010-86ed12e2-afce-4c79-9078-186c0e8b1f47.png" height="430"></a>
 </p>
