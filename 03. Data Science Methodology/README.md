@@ -15,6 +15,6 @@ This course introduces data science methodologies such as IBM Foundational Metho
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/e219655a40fa3d03f95d7868635d1619"><img src="https://user-images.githubusercontent.com/84391594/152699269-eca4a564-3720-43cb-99a3-8199c324dab7.png" height="430"></a>
+  <a href="https://coursera.org/share/e219655a40fa3d03f95d7868635d1619"><img src="https://user-images.githubusercontent.com/69879612/202825870-f56b9feb-332a-4307-979d-2841b4225aa3.png" height="430"></a>
 </p>
 
