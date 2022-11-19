@@ -41,7 +41,7 @@ This course explores different types of data using Python. Learn how to prepare 
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/07378bbee47ea47c5e5fd855a9a19f4d"><img src="https://user-images.githubusercontent.com/84391594/152701547-05a52204-0358-4c0a-bbde-e2943715e945.png" height="430"></a>
+  <a href="https://coursera.org/share/07378bbee47ea47c5e5fd855a9a19f4d"><img src="https://user-images.githubusercontent.com/69879612/202873415-6f21e076-a04d-4efd-bdab-c765b1c287cc.png" height="430"></a>
   
 </p>
 
