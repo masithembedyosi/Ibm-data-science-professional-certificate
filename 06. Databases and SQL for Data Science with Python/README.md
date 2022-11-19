@@ -23,14 +23,14 @@ The purpose of this course is to introduce relational database concepts and to l
     - Built-in Database Functions
     - Sub-Queries and Nested SELECTS
     - Working with Multiple Tables
-- [Accessing Databases using Python
+- Accessing Databases using Python
   - How to Access Databases Using Python
   - Writing Code using DB-API
   - Connecting to a Database Instance
   - Creating Tables, Inserting, and Querying Data
   - SQL Magic
   - Analysing Data with Python
-- [Course Assignment]
+- Course Assignment
   - Getting Table and Column Details
   - Loading Data
 
@@ -45,6 +45,6 @@ The purpose of this course is to introduce relational database concepts and to l
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/e120d358b98a734084b1dcbda5c7f468"><img src="https://user-images.githubusercontent.com/84391594/152701418-389224a8-ff8b-42e4-b557-7c6643bfa0d5.png" height="430"></a>
-  <a href="https://www.credly.com/badges/478a43fe-8690-4d77-8f4f-32c84ca65f4a/public_url"><img src="https://user-images.githubusercontent.com/84391594/152701327-367b7656-904e-4294-91f8-1312342157c4.png" height="430"></a>
+  <a href="https://coursera.org/share/e120d358b98a734084b1dcbda5c7f468"><img src="https://user-images.githubusercontent.com/69879612/202865501-12917742-05fd-459e-865e-ccf42b29152f.png" height="430"></a>
+  
 </p>
