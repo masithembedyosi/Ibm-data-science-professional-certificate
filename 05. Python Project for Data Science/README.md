@@ -18,5 +18,5 @@ This course is designed to demonstrate basic Python skills for working with data
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/8c5bdbcab9150070781af0bcf964c35a"><img src="https://user-images.githubusercontent.com/84391594/152701285-15511a62-1e0f-48ce-800f-3d1b6e2407e1.png" height="430"></a>
+  <a href="https://coursera.org/share/8c5bdbcab9150070781af0bcf964c35a"><img src="https://user-images.githubusercontent.com/69879612/202828863-77b150ee-d734-4a0b-b921-65bf78ef4707.png" height="430"></a>
 </p>
