@@ -8,7 +8,7 @@
 - Open Source Tools (e.g. Jupyter Notebook, JupyterLab, R Studio IDE, Github)
 - IBM Tools for Data Science
 
-## 📄 Summary Skills Learned 
+## 📄 Summary of Skills Learned 
 This course introduces you to common programming languages ​​used by data scientists. It also provides basic knowledge of  Jupyter Notebook, Watson Studio, GitHub and other tools used in subsequent courses.
 - Introduction to the languages, tools, and data used by data scientists, including IBM tools focused on data science. 
 - Knowledge of the features of Jupyter Notebook and RStudio IDE that make them popular for data science projects.
