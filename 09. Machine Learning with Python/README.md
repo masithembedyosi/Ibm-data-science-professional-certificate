@@ -1,11 +1,11 @@
 # Machine Learning with Python
 
 ## 📄 Summary 
-This course provides an overview of the purpose of Machine Learning, and where it applies to the real world. It then covers topics such as supervised vs unsupervised learning, model evaluation, and various useful Machine Learning algorithms. 
+This course provides an overview of the purpose of machine learning and its real-world applications. It then covers topics such as supervised and unsupervised learning, model evaluation, and various useful machine learning algorithms.
 
-To explore the methods of machine learning, and the algorithms involved, many example projects are embarked upon and explored, including cancer detection, predicting economic trends, predicting customer churn, and recommendation engines. 
+Many sample projects are launched and explored to explore machine learning methods and related algorithms, including cancer detection, economic trend forecasting, customer churn forecasting, and recommendation engines.
 
-The final project within this course is the building of a classifier to predict whether a loan case will be paid off. It is a classification problem, and KNN, Decision Tree, SVM, and Logistic Regression are all used to determine the best algorithm to use.
+The final project in this course is to build a classifier that predicts whether a loan offer will be repaid. This is a classification problem, and KNNs, decision trees, SVMs, and logistic regression are all used to determine the best algorithm to use.
 
 ## 📑 Main Topics 
 - Introduction to Machine Learning
