@@ -42,5 +42,5 @@ This course teaches how to present and visualize complex data in a manner that m
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/8e8129c8114e278cb8d2560a1ad14f94"><img src="https://user-images.githubusercontent.com/84391594/152701650-3c73b517-a6ea-4926-aafb-851e45543d90.png" height="430"></a>
+  <a href="https://coursera.org/share/8e8129c8114e278cb8d2560a1ad14f94"><img src="https://user-images.githubusercontent.com/69879612/202906583-3375e09a-5da4-4e8d-9d95-861f70c02997.png" height="430"></a>
 </p>
